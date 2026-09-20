@@ -1,0 +1,13 @@
+[Theme]
+Name=Mystery (Casa Embrujada)
+Engine=curses
+
+[Colors]
+Background=BLACK
+PrimaryFG=CYAN
+Accent=MAGENTA
+
+[Screensaver]
+Script=src/mystery.py
+Speed=30
+FPS=60
