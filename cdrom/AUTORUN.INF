@@ -1,0 +1,4 @@
+[autorun]
+open=python3 plus98.py
+icon=cdrom/THEMES/plus98.ico
+label=Plus! 98 Companion Disc (Linux Terminal Edition)
